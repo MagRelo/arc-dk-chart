@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@architect/functions": "latest",
+    "aws-sdk": "2.4.12"
+  }
+}
